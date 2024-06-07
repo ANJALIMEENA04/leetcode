@@ -22,10 +22,11 @@ public:
             return;
         }
         if(i>=arr.size() || sum<0 || arr[i]>sum) return;
+        f(i+1,ds,sum,arr,vec);// ye mene socha
         ds.push_back(arr[i]);
-        f(i,ds,sum-arr[i],arr,vec);
-        ds.pop_back();
-        f(i+1,ds,sum,arr,vec);
+        f(i,ds,sum-arr[i],arr,vec);// ye jo abhi likha hua code h vo actual approch h
+        // ds.pop_back();
+        // f(i+1,ds,sum,arr,vec);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
