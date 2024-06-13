@@ -47,3 +47,15 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/ANJALIMEENA04/leetcode/tree/master/1137-height-checker) |
+# Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ANJALIMEENA04/leetcode/tree/master/0070-climbing-stairs) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ANJALIMEENA04/leetcode/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ANJALIMEENA04/leetcode/tree/master/0070-climbing-stairs) |
