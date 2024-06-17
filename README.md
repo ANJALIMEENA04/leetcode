@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ANJALIMEENA04/leetcode/tree/master/0075-sort-colors) |
+| [0633-sum-of-square-numbers](https://github.com/ANJALIMEENA04/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ANJALIMEENA04/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ANJALIMEENA04/leetcode/tree/master/0070-climbing-stairs) |
+| [0633-sum-of-square-numbers](https://github.com/ANJALIMEENA04/leetcode/tree/master/0633-sum-of-square-numbers) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -66,3 +68,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ANJALIMEENA04/leetcode/tree/master/0070-climbing-stairs) |
+# Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/ANJALIMEENA04/leetcode/tree/master/0633-sum-of-square-numbers) |
