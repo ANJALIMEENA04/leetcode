@@ -11,6 +11,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ANJALIMEENA04/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1044-find-common-characters](https://github.com/ANJALIMEENA04/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/ANJALIMEENA04/leetcode/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/ANJALIMEENA04/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANJALIMEENA04/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Two Pointers
 |  |
@@ -72,3 +73,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/ANJALIMEENA04/leetcode/tree/master/0633-sum-of-square-numbers) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/ANJALIMEENA04/leetcode/tree/master/1138-grumpy-bookstore-owner) |
