@@ -12,6 +12,7 @@
 | [1044-find-common-characters](https://github.com/ANJALIMEENA04/leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/ANJALIMEENA04/leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/ANJALIMEENA04/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ANJALIMEENA04/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ANJALIMEENA04/leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Two Pointers
 |  |
@@ -77,3 +78,20 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/ANJALIMEENA04/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ANJALIMEENA04/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ANJALIMEENA04/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ANJALIMEENA04/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Ordered Set
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ANJALIMEENA04/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+# Monotonic Queue
+|  |
+| ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ANJALIMEENA04/leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
