@@ -133,4 +133,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ANJALIMEENA04/leetcode/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/ANJALIMEENA04/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
