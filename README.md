@@ -126,6 +126,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
 | [1293-three-consecutive-odds](https://github.com/ANJALIMEENA04/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1803-average-waiting-time](https://github.com/ANJALIMEENA04/leetcode/tree/master/1803-average-waiting-time) |
 ## Math
 |  |
 | ------- |
@@ -139,4 +140,8 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ANJALIMEENA04/leetcode/tree/master/0058-length-of-last-word) |
+## Simulation
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/ANJALIMEENA04/leetcode/tree/master/1803-average-waiting-time) |
 <!---LeetCode Topics End-->
