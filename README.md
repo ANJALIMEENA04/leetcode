@@ -126,6 +126,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
 | [1293-three-consecutive-odds](https://github.com/ANJALIMEENA04/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1720-crawler-log-folder](https://github.com/ANJALIMEENA04/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ANJALIMEENA04/leetcode/tree/master/1803-average-waiting-time) |
 ## Math
 |  |
@@ -140,8 +141,13 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ANJALIMEENA04/leetcode/tree/master/0058-length-of-last-word) |
+| [1720-crawler-log-folder](https://github.com/ANJALIMEENA04/leetcode/tree/master/1720-crawler-log-folder) |
 ## Simulation
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/ANJALIMEENA04/leetcode/tree/master/1803-average-waiting-time) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/ANJALIMEENA04/leetcode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
