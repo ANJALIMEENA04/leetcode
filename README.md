@@ -127,6 +127,7 @@
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/ANJALIMEENA04/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ANJALIMEENA04/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/ANJALIMEENA04/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ANJALIMEENA04/leetcode/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -187,4 +188,8 @@
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ANJALIMEENA04/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ANJALIMEENA04/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
