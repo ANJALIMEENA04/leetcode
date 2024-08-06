@@ -152,6 +152,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ANJALIMEENA04/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ANJALIMEENA04/leetcode/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/ANJALIMEENA04/leetcode/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
 | ------- |
@@ -206,4 +209,9 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Greedy
+|  |
+| ------- |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
