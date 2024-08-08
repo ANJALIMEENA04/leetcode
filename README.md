@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
+| [0921-spiral-matrix-iii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/ANJALIMEENA04/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ANJALIMEENA04/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -156,6 +157,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/ANJALIMEENA04/leetcode/tree/master/1803-average-waiting-time) |
 | [2846-robot-collisions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2846-robot-collisions) |
 ## Stack
@@ -199,6 +201,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ANJALIMEENA04/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
