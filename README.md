@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
+| [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/ANJALIMEENA04/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -141,6 +142,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ANJALIMEENA04/leetcode/tree/master/0069-sqrtx) |
+| [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/ANJALIMEENA04/leetcode/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -201,6 +204,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ANJALIMEENA04/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
