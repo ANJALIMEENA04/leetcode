@@ -126,6 +126,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
 | [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0921-spiral-matrix-iii) |
@@ -230,4 +231,8 @@
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/ANJALIMEENA04/leetcode/tree/master/0999-regions-cut-by-slashes) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
