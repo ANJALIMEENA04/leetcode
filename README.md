@@ -147,6 +147,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ANJALIMEENA04/leetcode/tree/master/0069-sqrtx) |
+| [0564-find-the-closest-palindrome](https://github.com/ANJALIMEENA04/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ANJALIMEENA04/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
 ## Binary Search
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ANJALIMEENA04/leetcode/tree/master/0058-length-of-last-word) |
+| [0564-find-the-closest-palindrome](https://github.com/ANJALIMEENA04/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/ANJALIMEENA04/leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/ANJALIMEENA04/leetcode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ANJALIMEENA04/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
