@@ -253,4 +253,8 @@
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/ANJALIMEENA04/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ANJALIMEENA04/leetcode/tree/master/0664-strange-printer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/ANJALIMEENA04/leetcode/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
