@@ -116,12 +116,14 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANJALIMEENA04/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ANJALIMEENA04/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ANJALIMEENA04/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/ANJALIMEENA04/leetcode/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANJALIMEENA04/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ANJALIMEENA04/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
@@ -193,6 +195,7 @@
 | ------- |
 | [0726-number-of-atoms](https://github.com/ANJALIMEENA04/leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANJALIMEENA04/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ANJALIMEENA04/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -213,6 +216,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANJALIMEENA04/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ANJALIMEENA04/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ANJALIMEENA04/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
