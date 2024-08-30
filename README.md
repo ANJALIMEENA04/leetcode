@@ -126,6 +126,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANJALIMEENA04/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ANJALIMEENA04/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2803-modify-graph-edge-weights](https://github.com/ANJALIMEENA04/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Array
 |  |
 | ------- |
@@ -266,4 +267,12 @@
 |  |
 | ------- |
 | [1054-complement-of-base-10-integer](https://github.com/ANJALIMEENA04/leetcode/tree/master/1054-complement-of-base-10-integer) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/ANJALIMEENA04/leetcode/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/ANJALIMEENA04/leetcode/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
