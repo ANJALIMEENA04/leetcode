@@ -22,7 +22,7 @@ public:
                         while(k<l && nums[l]==nums[l+1]) l--;
                    }
                 }
-                while(j+1<n && nums[j]==nums[j+1]) j++;
+                // while(j+1<n && nums[j]==nums[j+1]) j++;
             }
             // while(i+1<n && nums[i]==nums[i+1]) i++;
         }
