@@ -131,6 +131,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ANJALIMEENA04/leetcode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
 | [0624-maximum-distance-in-arrays](https://github.com/ANJALIMEENA04/leetcode/tree/master/0624-maximum-distance-in-arrays) |
@@ -189,6 +190,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ANJALIMEENA04/leetcode/tree/master/0015-3sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ANJALIMEENA04/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/ANJALIMEENA04/leetcode/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2846-robot-collisions) |
@@ -259,6 +261,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ANJALIMEENA04/leetcode/tree/master/0015-3sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ANJALIMEENA04/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Dynamic Programming
 |  |
