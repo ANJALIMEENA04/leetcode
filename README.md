@@ -150,6 +150,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ANJALIMEENA04/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2846-robot-collisions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2846-robot-collisions) |
 ## Math
 |  |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [1054-complement-of-base-10-integer](https://github.com/ANJALIMEENA04/leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ANJALIMEENA04/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -285,4 +287,8 @@
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/ANJALIMEENA04/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/ANJALIMEENA04/leetcode/tree/master/2803-modify-graph-edge-weights) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ANJALIMEENA04/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
