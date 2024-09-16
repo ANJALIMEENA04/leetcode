@@ -135,6 +135,7 @@
 | [0018-4sum](https://github.com/ANJALIMEENA04/leetcode/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
+| [0539-minimum-time-difference](https://github.com/ANJALIMEENA04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ANJALIMEENA04/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ANJALIMEENA04/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ANJALIMEENA04/leetcode/tree/master/0069-sqrtx) |
+| [0539-minimum-time-difference](https://github.com/ANJALIMEENA04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ANJALIMEENA04/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ANJALIMEENA04/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/ANJALIMEENA04/leetcode/tree/master/0058-length-of-last-word) |
+| [0539-minimum-time-difference](https://github.com/ANJALIMEENA04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ANJALIMEENA04/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0664-strange-printer](https://github.com/ANJALIMEENA04/leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/ANJALIMEENA04/leetcode/tree/master/0726-number-of-atoms) |
@@ -194,6 +197,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ANJALIMEENA04/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ANJALIMEENA04/leetcode/tree/master/0018-4sum) |
+| [0539-minimum-time-difference](https://github.com/ANJALIMEENA04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ANJALIMEENA04/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/ANJALIMEENA04/leetcode/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2846-robot-collisions) |
