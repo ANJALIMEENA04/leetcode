@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<string> uncommonFromSentences(string s1, string s2) {
         vector<string> ans,v1,v2;
-        map<string,int>m;
+        unordered_map<string,int>m;
         string t = "";
         for(int i=0;i<s1.size();i++){
             if(s1[i]==' ') {
