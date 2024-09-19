@@ -158,6 +158,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/ANJALIMEENA04/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ANJALIMEENA04/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/ANJALIMEENA04/leetcode/tree/master/0070-climbing-stairs) |
 | [0539-minimum-time-difference](https://github.com/ANJALIMEENA04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ANJALIMEENA04/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0650-2-keys-keyboard](https://github.com/ANJALIMEENA04/leetcode/tree/master/0650-2-keys-keyboard) |
@@ -277,6 +278,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ANJALIMEENA04/leetcode/tree/master/0070-climbing-stairs) |
 | [0650-2-keys-keyboard](https://github.com/ANJALIMEENA04/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ANJALIMEENA04/leetcode/tree/master/0664-strange-printer) |
 ## Bit Manipulation
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ANJALIMEENA04/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ANJALIMEENA04/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
