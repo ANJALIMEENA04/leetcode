@@ -2,7 +2,6 @@ class Solution {
 public:
     struct Node {
         int data = 0; 
-        int prefixCount = 0; // Store the frequency of prefixes ending at this node
         Node* child[26];
         Node() {
             for (int i = 0; i < 26; i++) {
@@ -18,7 +17,6 @@ public:
                 curr->child[x - 'a'] = new Node();
             }
             curr = curr->child[x - 'a'];
-            curr->prefixCount++; // Increment prefix count at each node
             curr->data++; 
         }
     }
@@ -28,7 +26,7 @@ public:
         int cnt = 0;
         for (char x : key) {
             curr = curr->child[x - 'a'];
-            cnt += curr->data; // Directly use the pre-calculated prefix count
+            cnt += curr->data;
         }
         return cnt;
     }
