@@ -1,59 +1,48 @@
-struct Node{
-    int count=0;
-    Node *list[26]={NULL};
-    bool containKey(char ch){
-        return list[ch-'a']!=NULL;
-    }
-    Node *get(char ch){
-        return list[ch-'a'];
-    }
-    void put(char ch,Node *new_node){
-        list[ch-'a']=new_node;
-    }
-    void inc(char ch){
-        list[ch-'a']->count+=1;
-    }
-    int retCount(char ch){
-        return list[ch-'a']->count;
-    }
-};
 class Solution {
-private:
-Node *root;
 public:
-    Solution(){
-        root=new Node;
-    }
-    void insert(string word){
-        Node *node=root;
-        for(auto ch:word){
-            if(!node->containKey(ch)){
-                node->put(ch,new Node);
+    struct Node {
+        int data = 0; 
+        int prefixCount = 0; // Store the frequency of prefixes ending at this node
+        Node* child[26];
+        Node() {
+            for (int i = 0; i < 26; i++) {
+                child[i] = NULL;
             }
-            node->inc(ch);
-            node=node->get(ch);
+        }
+    };
+
+    void insert(Node*& root, string& key) {
+        Node* curr = root;
+        for (auto x : key) {
+            if (curr->child[x - 'a'] == NULL) {
+                curr->child[x - 'a'] = new Node();
+            }
+            curr = curr->child[x - 'a'];
+            curr->prefixCount++; // Increment prefix count at each node
+            curr->data++; 
         }
     }
-    int search(string word){
-        Node *node=root;
-        int preCount=0;
-        for(auto ch:word){
-            preCount+=node->retCount(ch);
-            node=node->get(ch);
+
+    int search(Node* root, string key) {
+        Node* curr = root;
+        int cnt = 0;
+        for (char x : key) {
+            curr = curr->child[x - 'a'];
+            cnt += curr->data; // Directly use the pre-calculated prefix count
         }
-        return preCount;
+        return cnt;
     }
+
     vector<int> sumPrefixScores(vector<string>& words) {
-        //This problem can be solved using the trie data structure
-        for(auto word:words){
-            insert(word);
+        Node* root = new Node();
+        for (auto word : words) {
+            insert(root, word);
         }
-        int n=words.size();
-        vector<int>res(n);
-        for(int i=0;i<n;i++){
-            int preCount=search(words[i]);
-            res[i]=preCount;
+        vector<int> ans;
+        for (auto word : words) {
+            int num = search(root, word);
+            ans.push_back(num);
         }
-        return res;
+        return ans;
     }
 };
