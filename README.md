@@ -138,6 +138,7 @@
 | [0539-minimum-time-difference](https://github.com/ANJALIMEENA04/leetcode/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ANJALIMEENA04/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ANJALIMEENA04/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
 | [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/ANJALIMEENA04/leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -170,6 +171,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/ANJALIMEENA04/leetcode/tree/master/0069-sqrtx) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ANJALIMEENA04/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
 ## String
 |  |
 | ------- |
@@ -315,4 +317,20 @@
 | ------- |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ANJALIMEENA04/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ANJALIMEENA04/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
