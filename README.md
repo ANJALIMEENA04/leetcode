@@ -139,6 +139,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/ANJALIMEENA04/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ANJALIMEENA04/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/ANJALIMEENA04/leetcode/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/ANJALIMEENA04/leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/ANJALIMEENA04/leetcode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -333,4 +335,12 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/ANJALIMEENA04/leetcode/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/ANJALIMEENA04/leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
