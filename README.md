@@ -214,6 +214,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/ANJALIMEENA04/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/ANJALIMEENA04/leetcode/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ANJALIMEENA04/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -321,6 +322,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/ANJALIMEENA04/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/ANJALIMEENA04/leetcode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
@@ -338,9 +340,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/ANJALIMEENA04/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/ANJALIMEENA04/leetcode/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ANJALIMEENA04/leetcode/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ANJALIMEENA04/leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
