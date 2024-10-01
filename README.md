@@ -148,6 +148,7 @@
 | [1325-path-with-maximum-probability](https://github.com/ANJALIMEENA04/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ANJALIMEENA04/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ANJALIMEENA04/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ANJALIMEENA04/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1720-crawler-log-folder](https://github.com/ANJALIMEENA04/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ANJALIMEENA04/leetcode/tree/master/1803-average-waiting-time) |
 | [2035-count-sub-islands](https://github.com/ANJALIMEENA04/leetcode/tree/master/2035-count-sub-islands) |
@@ -223,6 +224,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ANJALIMEENA04/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ANJALIMEENA04/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ANJALIMEENA04/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ANJALIMEENA04/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ANJALIMEENA04/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ANJALIMEENA04/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
