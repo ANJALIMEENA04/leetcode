@@ -150,6 +150,7 @@
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ANJALIMEENA04/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ANJALIMEENA04/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ANJALIMEENA04/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/ANJALIMEENA04/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1720-crawler-log-folder](https://github.com/ANJALIMEENA04/leetcode/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/ANJALIMEENA04/leetcode/tree/master/1803-average-waiting-time) |
 | [2035-count-sub-islands](https://github.com/ANJALIMEENA04/leetcode/tree/master/2035-count-sub-islands) |
@@ -228,6 +229,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ANJALIMEENA04/leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1694-make-sum-divisible-by-p](https://github.com/ANJALIMEENA04/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -342,6 +344,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0731-my-calendar-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/ANJALIMEENA04/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Ordered Set
 |  |
 | ------- |
