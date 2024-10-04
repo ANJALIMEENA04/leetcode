@@ -159,6 +159,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ANJALIMEENA04/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ANJALIMEENA04/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ANJALIMEENA04/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2846-robot-collisions) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ANJALIMEENA04/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Math
@@ -215,6 +216,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ANJALIMEENA04/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/ANJALIMEENA04/leetcode/tree/master/0726-number-of-atoms) |
 | [1256-rank-transform-of-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ANJALIMEENA04/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -232,6 +234,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/ANJALIMEENA04/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ANJALIMEENA04/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ANJALIMEENA04/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ANJALIMEENA04/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ANJALIMEENA04/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Tree
@@ -295,6 +298,7 @@
 | [0015-3sum](https://github.com/ANJALIMEENA04/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ANJALIMEENA04/leetcode/tree/master/0018-4sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ANJALIMEENA04/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ANJALIMEENA04/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
 | ------- |
