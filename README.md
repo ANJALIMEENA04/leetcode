@@ -143,6 +143,7 @@
 | [0870-magic-squares-in-grid](https://github.com/ANJALIMEENA04/leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ANJALIMEENA04/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/ANJALIMEENA04/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/ANJALIMEENA04/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ANJALIMEENA04/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/ANJALIMEENA04/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ANJALIMEENA04/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/ANJALIMEENA04/leetcode/tree/master/0726-number-of-atoms) |
+| [1002-maximum-width-ramp](https://github.com/ANJALIMEENA04/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ANJALIMEENA04/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ANJALIMEENA04/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/ANJALIMEENA04/leetcode/tree/master/1720-crawler-log-folder) |
@@ -369,4 +371,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/ANJALIMEENA04/leetcode/tree/master/0432-all-oone-data-structure) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/ANJALIMEENA04/leetcode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
